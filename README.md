@@ -1,3 +1,2 @@
 # hello-world
-First repository practice
-I like cats
+First repository, practising GitHub
